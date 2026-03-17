@@ -1,7 +1,11 @@
 Project Report
+
 Hybrid Intelligent System using Fuzzy Logic and Neural Networks
+
 Student Name: Ishika Gupta
+
 Course: Artificial Intelligence
+
 University: Manipal University Jaipur
 1. Abstract
 Artificial Intelligence techniques such as fuzzy logic and neural networks are widely used for solving real-world problems involving uncertainty and learning from data. This project implements two intelligent systems. The first system uses fuzzy logic to determine the washing machine cycle time based on dirt level and load size. The second system develops a hybrid intelligent model combining fuzzy logic and neural networks to predict student performance levels. MATLAB Fuzzy Logic Toolbox and ANFIS are used to design and implement the systems.
